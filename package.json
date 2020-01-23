@@ -1,0 +1,25 @@
+{
+  "name": "nptweet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "te": "tsc src/index.ts && node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinyaigeek/nptweet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shinyaigeek/nptweet/issues"
+  },
+  "homepage": "https://github.com/Shinyaigeek/nptweet#readme",
+  "dependencies": {
+    "@types/node": "^13.1.8",
+    "typescript": "^3.8.0-beta"
+  }
+}
