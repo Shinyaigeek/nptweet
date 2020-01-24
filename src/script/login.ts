@@ -1,7 +1,6 @@
 import { readUserInput } from "./readUserInput"
 
 const assert = require('assert')
-// const fs = require('fs')
 
 import * as fs from 'fs'
 
