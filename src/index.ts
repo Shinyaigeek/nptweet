@@ -4,7 +4,8 @@ process.argv.forEach((content, index) => {
   if (index === 2) {
     switch (content) {
       case "login": {
-        console.log("login");
+        script.login()
+        break
       }
       case "logout": {
       }
