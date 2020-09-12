@@ -24,7 +24,7 @@
     "@types/node-fetch": "^2.5.4",
     "@types/twitter": "^1.7.0",
     "config": "^3.2.5",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "twitter": "^1.7.1",
     "typescript": "^3.8.0-beta"
   }
